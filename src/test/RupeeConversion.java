@@ -29,6 +29,7 @@ public class RupeeConversion {
 		rc.setUsd(obj.nextInt());
 		int inr = convertFunction(rc.getUsd());
 		System.out.println("INR : "+ inr);
+		System.out.println("NEW BRANCH");
 
 	}
 
